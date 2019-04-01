@@ -13,7 +13,7 @@
     "http-errors": "~1.6.2",
     "jsonwebtoken": "^8.3.0",
     "mongoose": "^5.2.12",
-    "morgan": "~1.9.0",
+    "morgan": ">=1.9.1",
     "node-pre-gyp": "^0.11.0",
     "pug": "2.0.0-beta11"
   }
